@@ -129,8 +129,7 @@ const Login = () => {
               <div className="col-md-8 col-lg-6 col-xl-5">
                 <div className="login-form">
                   <div className="logo text-center">
-                    <img src={imageConst?.logoimg} alt="logo" />
-                    <button className='btn'>Count</button>
+                    <img src={imageConst?.logoimg} alt="logo" /> 
                   </div>
                   <div className="login-heading">
                     <h4>Sign in</h4>

@@ -7,7 +7,7 @@ const UserLayout = ({ children }) => {
         <>
             <Header />
                 {children}
-            {/* <Footer /> */}
+            {/* <Footer /> */} 
         </>
     )
 }
